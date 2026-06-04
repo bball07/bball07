@@ -128,10 +128,8 @@ My core thesis: **poor AI documentation is not a UX inconvenience. It is an ethi
  
 ## 📊 GitHub Stats
  
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bball07&show_icons=true&theme=default&title_color=006D77&icon_color=C9A84C&text_color=0D0D0D&bg_color=ffffff&hide_border=true" alt="Brittney's GitHub Stats"/>
-<img height="160" src="https://streak-stats.demolab.com?user=bball07&theme=default&ring=006D77&fire=C9A84C&currStreakLabel=006D77&hide_border=true" alt="GitHub Streak"/>
-</div>
+
+![Brittney's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=bball07&bg_color=ffffff&color=006D77&line=006D77&point=C9A84C&area=true&hide_border=true)
 
  
 <div align="center">
