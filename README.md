@@ -1,47 +1,143 @@
-<h1 align="center">Hi 👋, I'm Brittney Ball</h1>
-<h3 align="center">I’m a self-taught software engineer, documentation engineer, keynote speaker, event organizer, and mentor.</h3>
+<div align="center">
+# Hi 👋, I'm Brittney Ball
+ 
+### AI Documentation Strategist · Tech Founder · Content Creator
+ 
+*The documentation gap is the ethics gap. These are the same problem.*
+ 
+<a href="https://www.linkedin.com/in/brittney-ball/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/Brii_toe_knee"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://briitoeknee.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
+<a href="https://buymeacoffee.com/the_doc_engineer"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+ 
+<img src="https://komarev.com/ghpvc/?username=bball07&color=006D77&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bball07&label=Profile%20views&color=0e75b6&style=flat" alt="bball07" /> </p>
+ 
+## 🧠 About Me
+ 
+I am the founder of **TechniDox**, author of **[The Documentation Engineer](https://briitoeknee.substack.com)** newsletter, and Chief Knowledge Officer at **Aortem**. My work lives at the intersection of AI ethics, documentation infrastructure, and developer education.
+ 
+My core thesis: **poor AI documentation is not a UX inconvenience. It is an ethical failure.** When users cannot understand what an AI system is doing, why it made a decision, or when to trust it, they cannot make informed choices. I built a framework, a product, and a weekly newsletter around fixing that.
+ 
+- 🏢 **Founder** of TechniDox, AI documentation infrastructure
+- 📰 **Author** of The Documentation Engineer — grading real AI companies A–F every Wednesday
+- 🎤 **Speaker** at 30+ conferences on AI ethics, documentation strategy, and developer experience
+- 🎙️ **Podcast guest** on 15+ shows covering AI transparency and developer education
+- 📰 **Featured** in Business Insider
+- 🏛️ **Former** Documentation Engineer at Meta
+- 🏆 **Creator** of the ADECP AI Documentation Ethics Benchmark Framework
+- 📦 **Published** AI Documentation Ethics Audit Kit on Amazon
+- 🌍 Reach: **34,500+** cross-platform followers across 8 platforms in **36 countries**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bball07" alt="bball07" /></a> </p>
+ 
+## 🚀 Current Focus
+ 
+```
+🔵 Building in public as a full-time content creator
+🟢 Covering AI ethics, governance, and documentation for The Documentation Engineer
+🟡 Preparing practitioners for EU AI Act enforcement (August 2026)
+🟠 Growing TechniDox as AI documentation infrastructure
+🔴 Targeting $10K/month in creator revenue — tracking it publicly every Friday
+```
+ 
 
-<p align="left"> <a href="https://twitter.com/brii_toe_knee" target="blank"><img src="https://img.shields.io/twitter/follow/brii_toe_knee?logo=twitter&style=for-the-badge" alt="brii_toe_knee" /></a> </p>
+ 
+## 📊 My Frameworks & IP
+ 
+| Framework | Purpose |
+|---|---|
+| **ADECP Benchmark** | Grades AI companies A–F across Ethical Stakes, Accessibility, Positioning, and Execution |
+| **Ethics-Through-Explanation Framework** | Four-component model for treating clear communication as a prerequisite for ethical AI deployment |
+| **7-Question Documentation Audit** | 14-point scoring system for evaluating AI documentation quality |
+| **Limitation Statement Formula** | Specific + Contextual + Action-Oriented |
+| **Ethics-to-Documentation Pipeline** | Principle → Policy → Pattern → Documentation → User Understanding |
+| **Three Gates of Ethical AI Deployment** | Awareness → Understanding → Choice |
+| **Documentation Competitive Moat Framework** | Positions documentation quality as a defensible business advantage |
+| **Agentic Disclosure Ladder** | Tiered framework for disclosing AI agent involvement to users |
+ 
 
-- 🌱 I’m currently learning **Data Science**
+ 
+## 📰 The Documentation Engineer Newsletter
+ 
+> *A weekly newsletter grading real AI companies on their documentation ethics, with frameworks practitioners can use immediately. Published every Wednesday. Subscribers in 36 countries.*
+ 
+<a href="https://briitoeknee.substack.com"><img src="https://img.shields.io/badge/Subscribe%20Now-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Subscribe"/></a>
+ 
+**Recent grades:** Claude Opus 4.7 (A−) &nbsp;·&nbsp; GPT-4 Turbo (C+) &nbsp;·&nbsp; Microsoft Copilot Managed Agents (D−) &nbsp;·&nbsp; Gemini 3.5 Flash (C−)
+ 
 
-- 📝 I regularly write articles on [https://medium.com/@brittney.ball07](https://medium.com/@brittney.ball07)
+ 
+## 🛠️ Tools & Technologies
+ 
+**Documentation & Writing**
+ 
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
 
-- 💬 Ask me about **JavaScript, React, Gatsby, Documentation, or Metrics.**
+**Development**
+ 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-- 📫 How to reach me **brittney.ball07@gmail.com**
+ 
+## 📈 Audience & Reach
+ 
+| Platform | Followers / Subscribers |
+|---|---|
+| X / Twitter | 10,100 |
+| LinkedIn | 7,302 |
+| Bluesky | 7,995 |
+| Instagram | 3,801 |
+| Threads | 1,291 · 898K views/month |
+| TikTok | 3,419 |
+| YouTube | 163 |
+| Substack | 455 subscribers · 36 countries |
+| **Total Cross-Platform Reach** | **34,510+** |
+ 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/brittney-ball/](https://www.linkedin.com/in/brittney-ball/)
+ 
+## 📬 Work With Me
+ 
+| | |
+|---|---|
+| 🤝 Brand Partnerships | [Media Kit](https://bball07.github.io/media-kit/) |
+| 🎤 Speaking Engagements | [Speaking Portfolio](https://agent-69b8c0f45f60493162cf84--speaking-portfolio.netlify.app/) |
+| 🔍 AI Documentation Audits | [TechniDox Consulting](https://agent-69b8a18cabe513ea6f--ai-documentation-audit.netlify.app/) |
+| 📦 Audit Kit | [Amazon](https://amazon.com/dp/B0GQN7FVCJ) |
+| 👥 1:1 Mentorship | [MentorCruise](https://mentorcruise.com/mentor/brittneyball) |
+| ☕ Support My Work | [Buy Me a Coffee](https://buymeacoffee.com/the_doc_engineer) |
+| 📧 Email | brittneyball.deved@gmail.com |
+ 
 
-- ⚡ Fun fact **I'm self taught!**
+ 
+## 📅 Publishing Schedule
+ 
+| Day | Format | What to Expect |
+|---|---|---|
+| **Monday** | Analytical essay | Research-driven company critiques, AI ethics frameworks, industry analysis |
+| **Wednesday** | The Documentation Engineer | Graded Watchlist, named frameworks, regulatory coverage |
+| **Friday** | Building in public | The full-time creator journey: wins, losses, tools, lessons, no filter |
+ 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bball07&show_icons=true&theme=default&title_color=006D77&icon_color=C9A84C&text_color=0D0D0D&bg_color=ffffff&hide_border=true" alt="Brittney's GitHub Stats"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bball07&theme=default&ring=006D77&fire=C9A84C&currStreakLabel=006D77&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brii_toe_knee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brii_toe_knee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brittney-ball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brittney-ball" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/thebword"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="210" alt="https://www.buymeacoffee.com/thebword" /></a></p>
-
-<br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bball07&show_icons=true&locale=en&layout=compact" alt="bball07" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bball07&show_icons=true&locale=en" alt="bball07" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bball07&" alt="bball07" /></p>
-
+ 
+<div align="center">
+*Building the standard for ethical AI documentation, one grade at a time.*
+ 
+<a href="https://briitoeknee.substack.com"><img src="https://img.shields.io/badge/The%20Documentation%20Engineer-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Newsletter"/></a>
+ 
+</div>
+ 
