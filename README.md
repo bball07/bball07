@@ -130,12 +130,13 @@ My core thesis: **poor AI documentation is not a UX inconvenience. It is an ethi
  
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=bball07&show_icons=true&theme=default&title_color=006D77&icon_color=C9A84C&text_color=0D0D0D&bg_color=ffffff&hide_border=true" alt="Brittney's GitHub Stats"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bball07&theme=default&ring=006D77&fire=C9A84C&currStreakLabel=006D77&hide_border=true" alt="GitHub Streak"/>
+<img height="160" src="https://streak-stats.demolab.com?user=bball07&theme=default&ring=006D77&fire=C9A84C&currStreakLabel=006D77&hide_border=true" alt="GitHub Streak"/>
 </div>
 
  
 <div align="center">
-*Building the standard for ethical AI documentation, one grade at a time.*
+
+ *Building the standard for ethical AI documentation, one grade at a time.*
  
 <a href="https://briitoeknee.substack.com"><img src="https://img.shields.io/badge/The%20Documentation%20Engineer-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Newsletter"/></a>
  
