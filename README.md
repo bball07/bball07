@@ -38,7 +38,6 @@ My core thesis: **poor AI documentation is not a UX inconvenience. It is an ethi
 🟢 Covering AI ethics, governance, and documentation for The Documentation Engineer
 🟡 Preparing practitioners for EU AI Act enforcement (August 2026)
 🟠 Growing TechniDox as AI documentation infrastructure
-🔴 Targeting $10K/month in creator revenue — tracking it publicly every Friday
 ```
  
 
